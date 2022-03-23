@@ -3,10 +3,10 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "start": "vite",
+    "start": "vite --port $PORT",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview || https://appstore-analysis.herokuapp.com/"
   },
   "keywords": [
     "myapp",
