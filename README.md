@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# Appstore Analyser
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Website created from scratch using severals FrameWorks and librarys, displaying data about Ios or Android applications.
 
-## Recommended IDE Setup
+- [Vue](https://vuejs.org/) + [Vuetify](https://vuetifyjs.com/en/) For SPA applications with good UI/UX.
+- [NodeJS] (https://nodejs.org/en/) Server used to lunch your Javascript Apps.
+- [ChartJs] (https://www.chartjs.org/) For graphics and charts.
+- [heroku] (https://www.heroku.com/) Cloud platform that i use to deploy my app.
+- [Pinia] (https://pinia.vuejs.org/) An interesting library that i use to store and filter my data (in the front-end).
+- [Vite] (https://vitejs.dev/) Rapid development tool that runs locally on top of Nodejs.
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+This website did not require any Back-end (server-side) implementation or api: It is 100% client-side.
