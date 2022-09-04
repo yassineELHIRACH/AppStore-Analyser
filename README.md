@@ -1,6 +1,6 @@
 # Appstore Analyser
 
-Website created from scratch using severals FrameWorks and librarys, displaying data about Ios or Android applications.
+Website created from scratch using severals FrameWorks and libraries, displaying data about Ios or Android applications.
 
 - [Vue](https://vuejs.org/) + [Vuetify](https://vuetifyjs.com/en/): For SPA applications with good UI/UX.
 - [NodeJS](https://nodejs.org/en/): Server used to lunch your Javascript Apps.
